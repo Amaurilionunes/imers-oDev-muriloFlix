@@ -1,2 +1,2 @@
-# imers-oDev-muriloFlix
-Este projeto destinar a armazenar filmes favorito do usuário
+# imersaoDev-muriloFlix-alura
+Este projeto destinar-se a armazenar filmes favorito do usuário
